@@ -4,4 +4,4 @@
 
 docker-compose - для удобства запуска.
 
-Попытка переписать это чуда -> [тоже самое, только на Python](https://github.com/s-antoshkin/yt_music_bot)
+Попытка переписать это чудо -> [тоже самое, только на Python](https://github.com/s-antoshkin/yt_music_bot)
